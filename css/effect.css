@@ -1,0 +1,31 @@
+.store__link:hover > .btn-store,
+.content__store-link:hover > .btn-store {
+  background-color: #BF920B66;
+}
+.content__video-btn:hover  {
+  background-color: #ff0000;
+}
+
+.top-grid__main-btn:hover > .btn__collection-44 {
+  background-color: #f7d4b6;
+}
+
+.top-grid__btn:hover > .btn__collection-19 {
+  background-color: #f8f7cb;
+}
+
+.top-grid__btn:hover > .btn__collection-30 {
+  background-color: #fae5e4;
+}
+
+.top-grid__btn:hover > .btn__collection-flower {
+  background-color: #b7b4cf;
+}
+
+.top-grid__btn:hover > .btn__collection-be-bad {
+  background-color: #d1d6c0;
+}
+
+.header__nav-item:hover > .nav-sub-item__list {
+  display: flex;
+}
